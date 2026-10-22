@@ -1,0 +1,20 @@
+# Vivado 工程生成文件
+*.cache
+*.hw
+*.ip_user_files
+*.runs
+*.sim
+*.gen
+*.jou
+*.log
+*.wdb
+*.str
+.xil/
+synthesis/
+implementation/
+__pycache__/
+
+# 仿真生成文件
+*.vvp
+*.vcd
+*.fst
